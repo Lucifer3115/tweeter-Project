@@ -1,5 +1,4 @@
 Twitter-scraping-with-snscrape-and-streamlit
-APPLICATION LINK: https://tulasinnd-twitter-scraping-with-snscrape-twitter-scraper-sm39k5.streamlit.app/
 
 Interative GUI using streamlit for twitter scraping
 
